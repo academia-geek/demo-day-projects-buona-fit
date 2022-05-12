@@ -8,6 +8,14 @@ El objetivo principal del aplicativo es que una persona cualquiera, sin conocimi
 
 Este proyecto se encuentra terminado, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad.
 
+# Este Repositorio en tu entorno
+
+Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
+
+```
+npm i
+```
+
 # 📹 Video explicado:
 
 [¿Como hacer el proyecto DemoDay?](https://drive.google.com/file/d/1kzQ5TuYc0NuIH6qGe5_Wr3Fnrjd5qKJp/view)
