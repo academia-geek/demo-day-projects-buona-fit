@@ -22,9 +22,17 @@ Para probar el proyecto de forma local, puedes correr:
 ```
 npm start
 ```
+Para correr las pruebas:
 
+```
+npm test
+```
+Inicia el corredor de prueba en el modo de reloj interactivo.\
+Consulte la sección sobre [ejecutar pruebas] (https://facebook.github.io/create-react-app/docs/running-tests) para obtener más información.
 Puedes correr la aplicación en modo desarrollo.\
-Open [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
+
+Abre [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
+
 
 La página se recargará cuando realices cambios. Puedes ver errores en la consola.
 
