@@ -70,6 +70,12 @@ La compilación se minimiza y los nombres de archivo incluyen los hashes.\
 
 Consulte la sección sobre [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
 
+# Despliegues:
+
+-[Landing Page](https://buona-fit-landing-page.vercel.app/)
+
+-[Buona Fit App](https://buena-fit-version-1-0.vercel.app/login)
+
 ## Este proyecto ha sido construido con:
 
 * [React](https://es.reactjs.org/) : ^17.0.2 
