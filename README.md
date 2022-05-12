@@ -31,9 +31,9 @@ Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyect
 - utiliza la url de este repo ya copiada.
 - Haga clic en “Clonar o descargar” y copie la URL.
 
-#Url para Clone
+# Url para Clone
 
-### 
+### https://github.com/academia-geek/demo-day-projects-buona-fit.git
 
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
 
