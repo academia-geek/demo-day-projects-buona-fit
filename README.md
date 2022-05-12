@@ -11,6 +11,12 @@ Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyect
 
 # Este Repositorio en tu entorno
 
+### Requisitos previos recomendados:
+
+-  Versión más reciente de Windows 10 (versión posterior a la 1903 y compilación posterior a la 18362) o Windows 11.
+-  Subsistema de Windows para Linux (WSL), incluida una distribución de Linux (como Ubuntu), y asegúrese de que se ejecuta en modo WSL 2. Para comprobarlo, abre PowerShell y escribe: wsl -l -v.
+-   Node.js en WSL 2.
+
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
 
 ```
@@ -36,6 +42,15 @@ Abre [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
 
 La página se recargará cuando realices cambios. Puedes ver errores en la consola.
 
+### `npm run build`
+
+Construye la aplicación para producción en la carpeta `build`.\
+Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
+
+La compilación se minimiza y los nombres de archivo incluyen los hashes.\
+¡Tu aplicación está lista para ser implementada!
+
+Consulte la sección sobre [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
 
 # 📹 Video explicado:
 
