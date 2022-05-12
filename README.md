@@ -7,7 +7,7 @@ El objetivo principal del aplicativo es que una persona cualquiera, sin conocimi
 
 # Estado del Proyecto:
 
-Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad.
+Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad. El proyecto fue construido mediante el comando npx create-react-app y está en su versión 17.0.2.
 
 # Este Repositorio en tu entorno
 
