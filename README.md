@@ -17,6 +17,24 @@ Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyect
 -  Subsistema de Windows para Linux (WSL), incluida una distribución de Linux (como Ubuntu), y asegúrese de que se ejecuta en modo WSL 2. Para comprobarlo, abre PowerShell y escribe: wsl -l -v.
 -   Node.js en WSL 2.
 
+### Cómo clonar el Repositorio en Windows:
+
+- Copia la url del repositorio.
+- Abre cmd (ventana de comandos), y navega con cd a la carpeta en la que quieras clonar.
+- Utiliza el comando git clone y pega la url, presiona Enter.
+- También puedes usar git bash directamente.
+
+### Cómo clonar usando la terminal de Ubuntu:
+
+- Abre Git Bash.
+- Vaya al directorio actual donde desea que se agregue el directorio clonado.
+- utiliza la url de este repo ya copiada.
+- Haga clic en “Clonar o descargar” y copie la URL.
+
+#Url para Clone
+
+### 
+
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
 
 ```
