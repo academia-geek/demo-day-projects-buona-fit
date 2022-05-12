@@ -3,9 +3,7 @@
 
 <h3 align="center"><strong>💗 Nos da gusto que te intereses en este proyecto</strong></h3>
 
-<p style="text-align: justify;">
 El objetivo principal del aplicativo es que una persona cualquiera, sin conocimiento alguno sobre desarrollo físico, pueda conseguir resultados acordes a sus ideales estéticos y globalmente saludables. Se ha creado una tienda online funcional, que más que vender suplementos de los cuales el mercado está sobresaturado, ofrece productos exclusivos, con una base científica, además de guiar a cada uno de los usuarios a comprender como se entrena correctamente, tanto en el gimnasio, en la alimentación y obviamente los productos incluidos en la tienda📦. 
-</p>
 
 # Estado del Proyecto:
 
@@ -14,10 +12,13 @@ Este proyecto se encuentra terminado, al día 14 de mayo del 2022 el proyecto ha
 # Este Repositorio en tu entorno
 
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
-
 ```
 npm i
 ```
+Para probar el proyecto de forma local, puedes correr:
+
+### `npm start`
+
 
 # 📹 Video explicado:
 
