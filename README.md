@@ -74,6 +74,17 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 
 * [React](https://es.reactjs.org/)
 
+### Algunos usos importantes del proyecto:
+
+* [React-redux](https://react-redux.js.org/)
+* [Redux](https://es.redux.js.org/)
+* [Material-ui/core](https://v4.mui.com/)
+* [Axios](https://axios-http.com/docs/intro)
+* [Firebase](https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds&gclid=COnbgfSr2fcCFUyqHwod35UPTA)
+* [react-stripe](https://stripe.com/docs/stripe-js/react)
+* [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
+
+
 # 📹 Video explicado:
 
 [¿Como hacer el proyecto DemoDay?](https://drive.google.com/file/d/1kzQ5TuYc0NuIH6qGe5_Wr3Fnrjd5qKJp/view)
