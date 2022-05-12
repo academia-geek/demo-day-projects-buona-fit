@@ -2,7 +2,7 @@
 
 <h3 align="center"><strong>Nos da gusto que te intereses en este proyecto</strong></h3>
 
-El objetivo principal del aplicativo es que una persona x, sin conocimiento alguno sobre desarrollo físico, pueda conseguir resultados acordes a sus ideales estéticos y globalmente saludables. Se ha creado una tienda online funcional, que más que vender suplementos de los cuales el mercado está sobresaturado, ofrece productos exclusivos, con una base científica, además de guiar a cada uno de los usuarios a comprender como se entrena correctamente, tanto en el gimnasio, en la alimentación y obviamente los productos incluidos en la tienda. 
+El objetivo principal del aplicativo es que una persona cualquiera, sin conocimiento alguno sobre desarrollo físico, pueda conseguir resultados acordes a sus ideales estéticos y globalmente saludables. Se ha creado una tienda online funcional, que más que vender suplementos de los cuales el mercado está sobresaturado, ofrece productos exclusivos, con una base científica, además de guiar a cada uno de los usuarios a comprender como se entrena correctamente, tanto en el gimnasio, en la alimentación y obviamente los productos incluidos en la tienda. 
 
 # Estado del Proyecto:
 
