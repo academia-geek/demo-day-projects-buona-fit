@@ -72,17 +72,17 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 
 ## Este proyecto ha sido construido con:
 
-* [React](https://es.reactjs.org/)
+* [React](https://es.reactjs.org/) : ^17.0.2 
 
 ### Algunos usos importantes del proyecto:
 
-* [React-redux](https://react-redux.js.org/)
-* [Redux](https://es.redux.js.org/)
-* [Material-ui/core](https://v4.mui.com/)
-* [Axios](https://axios-http.com/docs/intro)
-* [Firebase](https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds&gclid=COnbgfSr2fcCFUyqHwod35UPTA)
-* [react-stripe](https://stripe.com/docs/stripe-js/react)
-* [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
+* [React-redux](https://react-redux.js.org/) : ^8.0.0 
+* [Redux](https://es.redux.js.org/) : ^4.1.2 
+* [Material-ui/core](https://v4.mui.com/) : ^4.12.4 
+* [Axios](https://axios-http.com/docs/intro) : ^0.26.1 
+* [Firebase](https://firebase.google.com/?hl=es-419&gclsrc=ds&gclsrc=ds&gclid=COnbgfSr2fcCFUyqHwod35UPTA) : ^4.12.4 
+* [react-stripe](https://stripe.com/docs/stripe-js/react) : ^1.7.2 
+* [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start) : ^6.3.0 
 
 
 # 📹 Video explicado:
