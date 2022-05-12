@@ -70,6 +70,10 @@ La compilación se minimiza y los nombres de archivo incluyen los hashes.\
 
 Consulte la sección sobre [implementación](https://facebook.github.io/create-react-app/docs/deployment) para obtener más información.
 
+## Este proyecto ha sido construido con:
+
+* [React](https://es.reactjs.org/)
+
 # 📹 Video explicado:
 
 [¿Como hacer el proyecto DemoDay?](https://drive.google.com/file/d/1kzQ5TuYc0NuIH6qGe5_Wr3Fnrjd5qKJp/view)
