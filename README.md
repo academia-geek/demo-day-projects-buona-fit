@@ -1,14 +1,12 @@
-# 👋🏼 Bienvenid@ al Demo Day.
+# 👋🏼 Hola! Bienvenido a Buona Fit.
 
-<h3 align="center"><strong>!Bienvenido a tu ultimo proyecto en Academia Geek 🤖,  estamos muy a gusto en que seas parte de nuestra comunidad y poder apoyarte en tu crecimiento profesional en el maravilloso mundo del desarrollo del software!</strong></h3>
+<h3 align="center"><strong>Nos da gusto que te intereses en este proyecto</strong></h3>
 
-En este Proyecto a realizar vas a evidenciar los conceptos adquiridos en todo este proceso de aprendizaje como React Js, JavaScript, Redux y Firebase.
+El objetivo principal del aplicativo es que una persona x, sin conocimiento alguno sobre desarrollo físico, pueda conseguir resultados acordes a sus ideales estéticos y globalmente saludables. Se ha creado una tienda online funcional, que más que vender suplementos de los cuales el mercado está sobresaturado, ofrece productos exclusivos, con una base científica, además de guiar a cada uno de los usuarios a comprender como se entrena correctamente, tanto en el gimnasio, en la alimentación y obviamente los productos incluidos en la tienda. 
 
-# 🎯 Objetivo del DemoDay:
+# Estado del Proyecto:
 
-Adquirir los conocimientos esenciales para realizar aplicaciones web dinámicas haciendo uso de JavaScript Vanilla. 
-
-Con el Demo Day se pretende que los beneficiarios demuestren todos sus conocimientos adquiridos a empresas Nacionales e Internacionales, con esto pueden vivir la experiencia de exponer un proyecto y una idea de negocio al mundo.
+Este proyecto se encuentra terminado, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad.
 
 # 📹 Video explicado:
 
