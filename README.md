@@ -1,6 +1,4 @@
-![Imagen1](https://user-images.githubusercontent.com/74075195/168011072-0e0c98e0-1dfd-4cfb-a9c4-cbf9e376bba1.png)
 # 👋🏼 Hola! Bienvenido a Buona Fit.
-
 
 <h3 align="center"><strong>💗 Nos da gusto que te intereses en este proyecto</strong></h3>
 
@@ -97,5 +95,7 @@ Consulte la sección sobre [implementación](https://facebook.github.io/create-r
 - [Carlos Andres Ortiz Peña](https://github.com/CAndres438) Desarrollador.
 - [Jose David Bolivar Mayora](https://github.com/josedbolivarma) Desarrollador Frontend. 
 - [Llohan Alexis Mora](https://github.com/BaKai209) Desarrollador Frontend.
+
+![Imagen1](https://user-images.githubusercontent.com/74075195/168011072-0e0c98e0-1dfd-4cfb-a9c4-cbf9e376bba1.png)
 
 
