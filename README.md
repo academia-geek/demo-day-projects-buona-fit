@@ -19,10 +19,14 @@ npm i
 
 Para probar el proyecto de forma local, puedes correr:
 
-### `npm start`
+```
+npm start
+```
 
 Puedes correr la aplicación en modo desarrollo.\
 Open [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
+
+La página se recargará cuando realices cambios. Puedes ver errores en la consola.
 
 
 # 📹 Video explicado:
