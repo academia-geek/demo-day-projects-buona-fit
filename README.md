@@ -7,6 +7,9 @@ El objetivo principal del aplicativo es que una persona cualquiera, sin conocimi
 
 # Estado del Proyecto:
 
+![Imagen1](https://user-images.githubusercontent.com/74075195/168011072-0e0c98e0-1dfd-4cfb-a9c4-cbf9e376bba1.png)
+
+
 Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad. El proyecto fue construido mediante el comando npx create-react-app y está en su versión 17.0.2.
 
 # Este Repositorio en tu entorno
