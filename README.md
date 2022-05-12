@@ -7,7 +7,7 @@ El objetivo principal del aplicativo es que una persona cualquiera, sin conocimi
 
 # Estado del Proyecto:
 
-Este proyecto se encuentra terminado, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad.
+Este proyecto se encuentra terminado ✅, al día 14 de mayo del 2022 el proyecto ha pasado por una serie de pruebas y ha sido desplegado con las diferentes funcionalidades que se han previamente establecido en el prototipo de alta fidelidad.
 
 # Este Repositorio en tu entorno
 
