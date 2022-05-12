@@ -12,12 +12,17 @@ Este proyecto se encuentra terminado, al día 14 de mayo del 2022 el proyecto ha
 # Este Repositorio en tu entorno
 
 Esta es una aplicación React, puedes clonar el repositorio y utilizar el comando:
+
 ```
 npm i
 ```
+
 Para probar el proyecto de forma local, puedes correr:
 
 ### `npm start`
+
+Puedes correr la aplicación en modo desarrollo.\
+Open [http://localhost:3000](http://localhost:3000) para ver en tu navegador.
 
 
 # 📹 Video explicado:
