@@ -4,6 +4,7 @@ import { guardarLocalStorage, obtenerLocalStorage } from "../../utils/LocalStora
 import { shoppingCartReducer } from "../reducers/shoppingCartReducer";
 import { loginReducer } from "../reducers/loginReducer";
 import { registerReducer } from "../reducers/registerReducer";
+import { commentsReducer } from "../reducers/commentsReducer";
 
 
 const composeEnhancers = (typeof window !== 'undefined' && window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__) || compose;
@@ -14,6 +15,7 @@ const reducersEnviar = combineReducers({
     login: loginReducer,
     register: registerReducer,
     cart: shoppingCartReducer,
+    comments: commentsReducer,
 })
 
 export const store = createStore(
