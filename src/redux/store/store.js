@@ -1,6 +1,7 @@
 import { applyMiddleware, combineReducers, compose, createStore } from "redux";
 import thunk from "redux-thunk";
 import { guardarLocalStorage, obtenerLocalStorage } from "../../utils/LocalStorage";
+import { shoppingCartReducer } from "../reducers/shoppingCartReducer";
 import { loginReducer } from "../reducers/loginReducer";
 import { registerReducer } from "../reducers/registerReducer";
 
@@ -12,6 +13,7 @@ const storageState = obtenerLocalStorage();
 const reducersEnviar = combineReducers({
     login: loginReducer,
     register: registerReducer,
+    cart: shoppingCartReducer,
 })
 
 export const store = createStore(
