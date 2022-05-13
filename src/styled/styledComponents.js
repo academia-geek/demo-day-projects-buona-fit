@@ -4,9 +4,15 @@ import styled from "styled-components";
 
 /* TYPOGRAPHYS */
 export const LinkRedirect = styled(Link)`
-  color: green;
-  font-size: 0.8rem;
-  text-decoration: none;
+  background-color: "black";
+  border-radius: "5px";
+  color: "white";
+  width: "100%";
+  height: "40px";
+  border: "0.5px solid";
+  margin-Top: "10px";
+  border-color: "white";
+  cursor: "pointer";
 `;
 
 export const MarkPrice = styled.p`
